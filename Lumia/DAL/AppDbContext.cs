@@ -1,4 +1,4 @@
-﻿using Lumia.Areas.LumiaAdmin.Models;
+﻿
 using Lumia.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;

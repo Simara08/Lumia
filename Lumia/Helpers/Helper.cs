@@ -8,7 +8,7 @@ namespace Lumia.Helpers
 {
     public static class Helper
     {
-     public static string GetPath(string root,string[] folders)
+     public static string GetPath(string root,params string[] folders)
         {
             var resultpath = root;
             foreach (var folder in folders)

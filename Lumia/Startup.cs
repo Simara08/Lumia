@@ -29,7 +29,11 @@ namespace Lumia
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(
             options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
-
+            services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = "/LumiaAdmin/Account/Login";
+            });
             services.Configure<IdentityOptions>(options =>
             {
                 // Default Password settings.
@@ -59,8 +63,9 @@ namespace Lumia
             app.UseStaticFiles();
 
             app.UseRouting();
-            app.UseAuthentication();
             app.UseAuthorization();
+            app.UseAuthentication();
+          
 
             app.UseEndpoints(endpoints =>
             {

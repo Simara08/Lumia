@@ -153,4 +153,11 @@ C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\Lumi
 C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\LumiaAdmin\Views\_ViewImports.cshtml.g.cs
 C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\LumiaAdmin\Views\Team\Create.cshtml.g.cs
 C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\LumiaAdmin\Views\Team\Index.cshtml.g.cs
+C:\Users\simar\source\repos\Lumia\Lumia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\simar\source\repos\Lumia\Lumia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\simar\source\repos\Lumia\Lumia\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\simar\source\repos\Lumia\Lumia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\simar\source\repos\Lumia\Lumia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\LumiaAdmin\Views\Account\Login.cshtml.g.cs
+C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Razor\Areas\LumiaAdmin\Views\Account\Register.cshtml.g.cs
 C:\Users\simar\source\repos\Lumia\Lumia\obj\Debug\netcoreapp3.1\Lumia.csproj.AssemblyReference.cache
